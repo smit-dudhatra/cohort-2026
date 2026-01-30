@@ -29,7 +29,7 @@ A simple, clean single-page resume website built with pure HTML (no CSS). This p
 ### Method 1: Clone the Repository
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/resume-website.git
+git clone https://github.com/smit-dudhatra/cohort-2026.git
 
 # Navigate to the project directory
 cd resume-website
