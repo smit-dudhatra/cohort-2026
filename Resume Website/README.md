@@ -1,4 +1,4 @@
-![alt text](image.png)
+
 
 # Single-Page Resume Website
 
@@ -32,7 +32,7 @@ A simple, clean single-page resume website built with pure HTML (no CSS). This p
 git clone https://github.com/smit-dudhatra/cohort-2026.git
 
 # Navigate to the project directory
-cd resume-website
+cd "Resume Website"
 
 # Open index.html in your browser
 # On macOS:
@@ -98,10 +98,9 @@ resume-website/
 ## 📸 Screenshots
 
 ### Desktop View
-![Resume Website Screenshot](screenshots/desktop-view.png)
+![Resume Website Screenshot](screenshots/image.png)
 
-### Mobile View
-![Mobile View Screenshot](screenshots/mobile-view.png)
+
 
 > **Note**: Add your own screenshots to the `screenshots/` folder after deployment
 
@@ -117,8 +116,8 @@ Example deployment options:
 ## 👤 Author
 
 **Your Name**
-- GitHub: [smit-dudhatra](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [smit-dudhatra](https://github.com/smit-dudhatra)
+- Email: dudhatrasmit1808@gmail.com
 
 ## 📝 License
 
